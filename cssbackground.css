@@ -1,0 +1,15 @@
+P{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-size: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 30;
+    color: rgb(224, 233, 217);
+    text-shadow: 5px 5px rgb(38, 109, 18);
+    background-image:url(./church\ 1.jpg);
+    background-color: aqua;
+    background-size:contain;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
